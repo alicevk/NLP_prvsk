@@ -8,6 +8,7 @@
 
 * [Sobre o repositório](#sobre-o-repositório)
 * [Requisitos](#requisitos)
+* [Arquivos](#arquivos)
 
 ## Sobre o repositório
 
@@ -32,5 +33,13 @@ assim como as seguintes bibliotecas/módulos:
 - [spaCy](https://spacy.io)
 - [NLTK](https://www.nltk.org)
 - [pandas](https://pandas.pydata.org)
+
+<hr>
+
+## Arquivos
+
+* [Pré-processamento e análise com o spaCy](spacy_prep_analysis.ipynb): Utiliza a biblioteca `spaCy` para realizar o pré-processamento e análise dos dados.
+
+* [Pré-processamento e análise com o NLTK](nltk_prep_analysis.ipynb): Utiliza a biblioteca `NLTK` para realizar o pré-processamento e análise dos dados.
 
 <hr>
