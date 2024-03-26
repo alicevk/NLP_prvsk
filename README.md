@@ -24,15 +24,14 @@ Adicionalmente, o repositório em questão visa aplicar as estratégias utilizad
 
 As seguintes ferramentas foram utilizadas para o projeto:
 
-|   |   |
-| - | - |
-| <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"></a> | <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"></a> |
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"></a> <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"></a>
 
 assim como as seguintes bibliotecas/módulos:
 
 - [spaCy](https://spacy.io)
 - [NLTK](https://www.nltk.org)
 - [pandas](https://pandas.pydata.org)
+- [regex](https://pypi.org/project/regex/)
 
 <hr>
 
@@ -41,5 +40,7 @@ assim como as seguintes bibliotecas/módulos:
 * [Pré-processamento e análise com o spaCy](spacy_prep_analysis.ipynb): Utiliza a biblioteca `spaCy` para realizar o pré-processamento e análise dos dados.
 
 * [Pré-processamento e análise com o NLTK](nltk_prep_analysis.ipynb): Utiliza a biblioteca `NLTK` para realizar o pré-processamento e análise dos dados.
+
+* [Usando regex e spaCy para identificar as perovskitas](prvsk_regex.ipynb): Identifica as fórmulas a partir de regex e apresenta os resultados.
 
 <hr>
